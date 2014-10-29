@@ -1,0 +1,29 @@
+html{background:#eee}
+body{
+	margin:17px 0 15px 0;
+	padding:0;
+	text-align:center;
+	font-size:small;
+	font-family:"Lucida Grande","Lucida Sans Unicode", Tahoma, sans-serif;
+	display:block;
+}
+#container{
+	text-align:left;
+	background:#fff;
+	border:1px solid #ccc;
+	-webkit-box-shadow:rgba(0,0,0,0.2) 0px 0px 5px;
+	-moz-box-shadow:rgba(0,0,0,0.2) 0px 0px 5px;
+	-o-box-shadow:rgba(0,0,0,0.2) 0px 0px 5px;
+	box-shadow:rgba(0,0,0,0.2) 0px 0px 5px}
+#container{
+	margin:0 auto 10px auto;
+	width:800px;
+}
+form.calllog{
+	margin:20px 14px 0 14px;
+	padding:0 0 20px 0;
+	position:relative
+}
+
+
+
